@@ -32,4 +32,4 @@ LocationMaker.map_locations
 
 
 
-<a href='https://learn.co/lessons/oo-nesting-for-google-maps' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/oo-nesting-for-google-maps' title='Creating Nested Arrays for Google Maps'>Creating Nested Arrays for Google Maps</a> on Learn.co and start learning to code for free.</p>
